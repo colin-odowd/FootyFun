@@ -1,0 +1,19 @@
+Please update these instructions to help others get started as you see fit.
+
+1. install visual studio code: https://code.visualstudio.com/docs/?dv=win
+
+2. install git: https://git-scm.com/downloads
+
+2.1 set your usename and email as mentioned here: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+Example: I opend a windows command prompt and entered:
+git config --global user.name "Pat O'Dowd"
+git config --global user.email pxo22631@gmail.com
+
+3. Open visual studio code and select the Source Control icon (third down on left panel)
+
+3.1 Clone this repo from github by selecting url: https://github.com/pxo22631/FootyFun
+
+You will be prompted to create a local folder for the repo
+
+4. Make a change to the readme file, save the change, go to the Source Control and do a Push followed by a Commit
